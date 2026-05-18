@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity Enthusiast <br>Eager to learn Cybersecurity fundamentals to implement them contributing companies in security terms<br>Want to showcase my Technical potential <br>Hands on experience and skills in Basic Python | Linux | Wireshark and SOC
+Cybersecurity Enthusiast & AI Practitioner <br>Eager to learn Cybersecurity fundamentals to implement them contributing companies in security terms<br>Want to showcase my Technical potential <br>Hands on experience and skills in Basic Python | Linux | Wireshark and SOC
 
 
 ## 🌐 Socials:
